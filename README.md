@@ -1,4 +1,4 @@
-## img-caption
+## VisualTalk
 
 #### This is a React-Native application for an image captioning project at [InOut 2018](https://hackinout.co).
 
