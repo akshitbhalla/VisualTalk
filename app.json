@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "img-caption",
+    "description": "This is an image captioning application",
+    "slug": "img-caption",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
